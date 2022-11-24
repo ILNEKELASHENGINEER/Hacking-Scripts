@@ -1,4 +1,4 @@
-echo Hi do you love me (yes or no)
+echo Hi do you love me (yes or no)!!!
 set /p love=
 if %love%==yes goto love
 if %love%==no goto hate
